@@ -18,10 +18,6 @@ import java.awt.event.WindowAdapter;
 import java.awt.event.WindowEvent;
 import java.awt.event.WindowListener;
 
-/**
- *
- * @author R
- */
 public class Awt1 {
 
     public Awt1() {
